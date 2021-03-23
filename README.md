@@ -20,4 +20,7 @@ In order to keep yourself in a growth mindset its important to remember the foll
 
 * Learn from your mistakes and never give up. 
 
+
+If intersted to see more, follow me on Github through this link (https://github.com/Omardyab).
+
 ![](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
