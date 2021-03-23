@@ -2,7 +2,7 @@
 ### This is a simple project. 
 
 
-#### *Omar D'yab is HERE.
+#### Omar D'yab is HERE.
 
 An engineer :)
 my interests: Computer networks, Machine learning and programming, into basketball and chess!
