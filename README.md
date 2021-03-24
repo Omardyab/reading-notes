@@ -10,4 +10,4 @@ my interests: Computer networks, Machine learning and programming, into basketba
 |-----------|-------------------------------|
 |READ 1     | [Read1](read1.md)             |
 |READ 2     | [Read2](read2.md)             |
-|LAB        | [LAB](LAB1.md)                |
+|LAB        | [LAB](LAB.md)                |
