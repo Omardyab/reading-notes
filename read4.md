@@ -1,7 +1,8 @@
 # Task Read 4 
+# JavaScript:
 
 ## This is a summary of Read 4 about Javascript  
-## JavaScript:
+
 Def: Make your webpages more interactive, a script should be written based on your goals.
 1-Access content: Selecting Items
 2-Modify content: add text or remove it.
