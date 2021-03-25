@@ -59,9 +59,9 @@ Operators: a symbol that does an action
     //arthmatic operators + - * / **(power) %  etc 
 
 ### ***Console***
-- Def:is important for deveolperss to get to know what is hapeninng 
+- Def: is important for developers to get to know what is happening 
 - Something we can use 
-- show the errors if we have "usuful when there is a 1000 lines of code " 
+- show the errors if we have "useful when there is a 1000 lines of code " 
 Example var firstName = 'Omar';
     console.log(x*z)
     console.log(firstName)
