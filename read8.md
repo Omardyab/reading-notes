@@ -3,7 +3,7 @@
 We have 6 levels heading in Html 
 here are some basic commands:
 
-![html basic commands](/ASAC/reading-notes/html.PNG)
+![html basic commands](html.PNG)
 
 # CSS and Functions :
 
