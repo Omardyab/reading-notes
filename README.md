@@ -7,6 +7,7 @@ my interests: Computer networks, Machine learning and programming, into basketba
 
 
 Reading notes of 102 
+
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
 |READ 1     | [Read1](read1.md)             |
@@ -18,6 +19,7 @@ Reading notes of 102
 |LAB        | [LAB](LAB.md)                 |
 
 Code 201 Reading Notes
+
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
 |READ 1     | [Read1](read7.md)             |
