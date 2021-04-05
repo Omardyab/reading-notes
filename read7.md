@@ -1,7 +1,32 @@
 
+# Html:
+
+## What:
+
+Def :
+Hyper Text Markup Language;
+
+## why:
+structure
+content
+showing -images 
+	-texts
+	-videos
+
+## how :
+opening and closing tags
+<p>content</p>
+self closing < img src="link" >
+
+## Wireframe:
+
+its always the best to start thinking of your website ahead.
+basics:
+-header
+-main
+-footer
 
 # JavaScript:
-
 ## This is a summary about Javascript  
 
 Def: Make your webpages more interactive, a script should be written based on your goals.
