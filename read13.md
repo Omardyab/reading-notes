@@ -15,3 +15,11 @@ Math object is just another example, Math.round() rounds the number to the neare
 functions groups set of statements and can take parameters.
 In an object, variables are properties and functions are methods.
 Array and objects can contain the other, both used to have complex data.
+
+creating a table is a way to display information, by using table element, it's drawn row by row with tr element, inside it a number of cells are represented by td or th if its a header.
+
+basic table structure 
+table
+th
+tr
+td
