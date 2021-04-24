@@ -1,1 +1,1 @@
-# Readign 8:
+# Reading 8:

@@ -1,5 +1,3 @@
-
-## Reading 4: 
 Reading 4: 
 Links help you move from one page to another.
 <a href='link'>linkdes</a>
@@ -28,3 +26,15 @@ Functions Group a set of statements together to perform a specific task.
 
 Local variable: inside a function using the var keyword.
 Global variable: can be used anywhere with your code.
+
+Pair programming:
+one is the driver (coder) and one is Navigator (checker and guider)
+
+
+6 reasons why Pair Programing:
+1-more efficient
+2-engaging with your teammates
+3-learning and learning 
+4-social skills
+5-make you ready for job interviews
+5-make you ready for work
