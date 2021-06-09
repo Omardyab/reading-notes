@@ -37,3 +37,14 @@ Code 201 Reading Notes
 |READ 13    | [Read13](read19.md)           |
 |READ 14    | [Read14](read20.md)           |
 |READ 15    | [Read15](read21.md)           |
+
+Reading notes of 301 
+
+|ASSINGMENT | LINK                          |
+|-----------|-------------------------------|
+|READ 1     | [Read1](read22.md)             |
+|READ 2     | [Read2](read23.md)             |
+|READ 3     | [Read3](read24.md)             |
+|READ 4     | [Read4](read25.md)             |
+|READ 5     | [Read5](read26.md)             |
+|READ 6     | [Read6](read26.md)             |
