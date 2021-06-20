@@ -26,7 +26,7 @@ it seves as a single sign in.
 
 
 What is the difference between authorization and authentication?
-
+Authentication means confirming your own identity, while authorization means granting access to the system
 What is Authorization Code Flow?
 exchanges an Authorization Code for a token
 What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
