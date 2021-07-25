@@ -3,7 +3,7 @@
 
 ## Pain and Suffering: 
 The article mentioned the Pain vs Suffering relationship.
-Pain is good when we grow afterward, there is a purporse at the end, in other words, the Pain of Growth, unlike Suffering.
+Pain is good when we grow afterward, there is a purpose at the end, in other words, the Pain of Growth, unlike Suffering.
 
 
 ## A beginner's guide to Big O Notation
