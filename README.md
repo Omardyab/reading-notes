@@ -64,5 +64,6 @@ Reading notes of 401
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
-|READ 1     | [Read1](read37.md)             |
+|READ 1     | [Read1](read37.md)            |
+|READ 1     | [Read1](read38.md)            |
 
