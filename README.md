@@ -1,13 +1,11 @@
 # Reading Notes 
 # Welcome to my Github Reading Notes.
+This website is dedicated to my reading notes,
 
-#### Omar D'yab is HERE.
-
-An engineer,
-my interests: Computer networks, Machine learning and programming, into basketball and chess!
+Here is a table content contains a summary of each reading assignment :
 
 
-Reading notes of 102 
+# Code102 : Intro to Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -19,7 +17,7 @@ Reading notes of 102
 |READ 6     | [Read6](read6.md)             |
 |LAB        | [LAB](LAB.md)                 |
 
-Code 201 Reading Notes
+# Code201 : Foundations of Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -39,7 +37,7 @@ Code 201 Reading Notes
 |READ 14    | [Read14](read20.md)           |
 |READ 15    | [Read15](read21.md)           |
 
-Reading notes of 301 
+# Code301 : Intermediate Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -49,18 +47,18 @@ Reading notes of 301
 |READ 4     | [Read4](read25.md)             |
 |READ 5     | [Read5](read26.md)             |
 |READ 6     | [Read6](read27.md)             |
-|READ 7     | [Read7](read28.md)            |
-|READ 8     | [Read8](read29.md)            |
-|READ 9     | [Read9](read30.md)            |
-|READ 10    | [Read10](read31.md)           |
-|READ 11    | [Read11](read32.md)           |
-|READ 12    | [Read12](read33.md)           |
-|READ 13    | [Read13](read34.md)           |
-|READ 14    | [Read14](read35.md)           |
-|READ 15    | [Read15](read36.md)           |
+|READ 7     | [Read7](read28.md)             |
+|READ 8     | [Read8](read29.md)             |
+|READ 9     | [Read9](read30.md)             |
+|READ 10    | [Read10](read31.md)            |
+|READ 11    | [Read11](read32.md)            |
+|READ 12    | [Read12](read33.md)            |
+|READ 13    | [Read13](read34.md)            |
+|READ 14    | [Read14](read35.md)            |
+|READ 15    | [Read15](read36.md)            |
 
 
-Reading notes of 401 
+# Code401 : Advanced Software Development in Python
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
