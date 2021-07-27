@@ -42,6 +42,7 @@ reading a file(as per author):
 .writelines(seq)	This writes the sequence to the file. No line endings are appended to each sequence item. It’s up to you to add the appropriate line ending(s).
 
 ## Working With Bytes: 
+by adding 'b' character to the mode argument, you can work with byte strings. 
 
 ## Tips and Tricks: 
 __file__=> excucte scripts and print thier status.
