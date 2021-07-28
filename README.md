@@ -65,5 +65,6 @@ Here is a table content contains a summary of each reading assignment :
 |READ 1     | [Read1](read37.md)            |
 |READ 2     | [Read1](read38.md)            |
 |READ 3     | [Read1](read39.md)            |
+|READ 4     | [Read4](read40.md)            |
 
 
