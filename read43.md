@@ -1,58 +1,43 @@
-# Reading 7: 
+# Reading 6: global and nonlocal names
 
-## Modifying the Behavior of a Python Scope:
+# How to use the Random Module in Python:
+* Global names can be accessed anywhere in my code.
+* Local names can be accessed (or edited) inside the function they were created.
+* nonlocal names can be modified or updated, only accessed 
 
+### Such standards can be modified within those two keywords: 
+    1- global
+    2- nonlocal
+
+## global statement: 
+* What: define a list to be global names.
+* How: global followed by the name (list of names)
+   the author shows the following example in which a global name can be updated inside your function : 
+   >>> counter = 0  # A global name
+    >>> def update_counter():
+...     global counter  # Declare counter as global
+...     counter = counter + 1  # Successfully update the counter 
+
+* It's better to avoid lazy global names it can end up with an error if you did not call the function where you have the global name.  
 Generate random numbers by providing access to functions.
 
-It can be used as simple as picking a random number or making my password. 
-* Random Functions : 
-* -Radint: 
-* Import random
-* => print random.radiant(0,3) => output it will within th erange 0 - 3
 
-* Random 
-* Import random
-* print random.random()* 100 => output it will within th erange 0 - 100
+## The nonlocal Statement
 
-* There are many other examples such  Shuffle , Randrange etc.
+* What: define a list to be nonlocal.
+* How: nonlocal followed by the name or more separated by commas.
+* The author shows the following example in which a nonlocal name can be updated inside your function :
+   >>> def func():
+...     var = 100  # A nonlocal variable
+...     def nested():
+...         nonlocal var  # Declare var as nonlocal
+...         var += 100
+...
+...     nested()
+...     print(var)
+...
+>>> func()
+200
 
-## What is Risk Analysis in Software Testing and how to perform it?
-
-
-* Def: "The process of identifying the risks in applications or software that you built and prioritizing them to test" 
-
-* Why Risk Analysis => helping the developers and managers to mitigate the risks.
-
-* Possible risks can be using new hardware or new automation toll etc.
-
-You cannot avoid the following risks: Time, defect leakage and some incomplete requirements and urgency of the Clients, etc.
-
-but how to tackle such cases(as per the author) :
-* Conduct Risk Assessment review meeting
-* Use maximum resources to work on high-risk areas
-* Create a Risk Assessment database for future use
-* Identify and notice the risk magnitude indicators: high, medium, low.
-  
-* Risk Identification:
-*  Business Risks: "It is the risk that may come from your company or your customer, not from your project".
-
-* Testing Risks: "You should be well acquainted with the platform you are working on, along with the software testing tools being used"
-
-* Premature Release Risk: "a fair amount of knowledge to analyze the risk associated with releasing unsatisfactory or untested software is required"
-
-* Software Risks: "You should be well versed with the risks associated with the software development process."
-
-Risk Assessment: has three perspectives: 
-
-1- Effect
-
-2- Cause
-
-3-Likelihood
-
-Three main steps to perform Risk Analysis as per the author?
-* Searching the risk
-
-* Analyzing the impact of each individual risk
-
-* Measures for the risk identified
+* nonlocal cant be used outside of your function (not in global scope nor local scope)
+*  you cant use nonlocal to create lazy nonlocal names (raises a SyntaxError)
