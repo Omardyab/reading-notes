@@ -1,4 +1,4 @@
-# Reading 6: global and nonlocal names
+# Reading 7: global and nonlocal names
 
 # How to use the Random Module in Python:
 * Global names can be accessed anywhere in my code.
