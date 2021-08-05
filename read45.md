@@ -1,5 +1,4 @@
 # Reading 9: 
-
 ## Dunder Methods
 Magic Method
 * \__init__
@@ -63,13 +62,13 @@ example of __len__:
     False
 
 ## Operator Overloading for Merging Accounts: \__add__  
-redfining add fucntion for two different objects.
+redefining add fucntion for two different objects.
 
 ## Callable Python Objects: \__call__
 get back a statment for your comands
+
     class Account:
     # ... 
-
     def __call__(self):
         print('Start amount: {}'.format(self.amount))
         print('Transactions: ')
@@ -95,24 +94,27 @@ get back a statment for your comands
 
 ## Context Manager Support and the With Statement: \__enter__, \__exit__
 
-* def"A context manager is a simple “protocol” (or interface) that your object needs to follow so it can be used with the with statement. Basically all you need to do is add \__enter__ and \__exit__ methods to an object if you want it to function as a context manager."
+* def: "A context manager is a simple “protocol” (or interface) that your object needs to follow so it can be used with the with statement. Basically all you need to do is add \__enter__ and \__exit__ methods to an object if you want it to function as a context manager."
 
 
 ## Basic Statistics in Python — Probability
 
     
-What is probability?: chance of an event happening 
+*What is probability?:
+* chance of an event happening 
 
 The data and the distribution:
+
 Normal distribuation :"phenomenon in the realm of probability and statistics." 
-symmetry and its shape are teh most important to notice.
+
+symmetry and its shape are th most important to notice.
 
 event with highest probaility => highest point
 
 ## Revisiting the normal:
 
 ### Central Limit Theorem:
-teh average of of many trials means in approaching true mean, and how data will be spreaded aroun this mean. 
+the average of of many trials means in approaching true mean, and how data will be spreaded aroun this mean. 
 ### Three Sigma Rule
 68-95-99.7 are refering to this rule, adn how obserrvations are falling into certian distance of the mean
 sigma: average distance.
