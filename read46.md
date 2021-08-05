@@ -1,4 +1,4 @@
-# Reading 9: Stacks and Queues
+# Reading 10: Stacks and Queues
 
 # What is stack? 
 *  Stack: This is a special case of linked list, instead of a head you will have top
