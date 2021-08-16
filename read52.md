@@ -1,4 +1,4 @@
-# Reading 17: Web Scraping:
+# Reading 17: Web Scraping:
 
 # 1. What is Web Scraping?
  is a technique to automatically access and extract large amounts of information from a website, which saves a huge amount of time and effort. its an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form. There are different ways to scrape websites: online Services, APIs or writing your own code.
