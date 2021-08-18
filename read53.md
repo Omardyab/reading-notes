@@ -25,3 +25,4 @@ The encryption steps performed are often incorporated as part of more complex sc
 
         1- an attacker knows (or guesses) that some sort of simple substitution cipher has been used, but not specifically that it is a Caesar scheme.
         2-an attacker knows that a Caesar cipher is in use, but does not know the shift value.
+        

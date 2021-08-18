@@ -79,6 +79,7 @@ Here is a table content contains a summary of each reading assignment :
 |READ 16   | [Read16](read51.md)            |
 |READ 17   | [Read17](read52.md)            |
 |READ 18   | [Read18](read53.md)            |
+|READ 19   | [Read19](read54.md)            |
 
 
 
