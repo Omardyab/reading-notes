@@ -1,4 +1,4 @@
-# Reading 20: Django
+#  Reading 20: Django
 
 
 Def: It’s a free and open-source Python-based web framework. 
