@@ -71,15 +71,17 @@ Here is a table content contains a summary of each reading assignment :
 |READ 7     | [Read7](read43.md)            |
 |READ 8     | [Read8](read44.md)            |
 |READ 9     | [Read9](read45.md)            |
-|READ 10    | [Read11](read46.md)            |
-|READ 11    | [Read12](read47.md)            |
-|READ 12+13    | [Read12](read48.md)            |
-|READ 14    | [Read14](read49.md)            |
-|READ 15   | [Read15](read50.md)            |
-|READ 16   | [Read16](read51.md)            |
-|READ 17   | [Read17](read52.md)            |
-|READ 18   | [Read18](read53.md)            |
-|READ 19   | [Read19](read54.md)            |
+|READ 10    | [Read11](read46.md)           |
+|READ 11    | [Read12](read47.md)           |
+|READ 12+13 | [Read12](read48.md)           |
+|READ 14    | [Read14](read49.md)           |
+|READ 15    | [Read15](read50.md)           |
+|READ 16    | [Read16](read51.md)           |
+|READ 17    | [Read17](read52.md)           |
+|READ 18    | [Read18](read53.md)           |
+|READ 19    | [Read19](read54.md)           |
+|READ 20    | [Read20](read55.md)           |
+
 
 
 
