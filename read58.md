@@ -1,4 +1,4 @@
-#  Reading 21: Django Custum User Model:
+#  Reading 23: Django Custum User Model:
 
 - A built-in User model for authentication
 ## Setup steps:
