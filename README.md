@@ -84,6 +84,27 @@ Here is a table content contains a summary of each reading assignment :
 |READ 21    | [Read21](read56.md)           |
 |READ 22    | [Read22](read57.md)           |
 |READ 23    | [Read23](read58.md)           |
+|READ 24    | [Read24](read59.md)           |
+a hash table is a data
+structure that is used to store
+information so the information in the
+hash table basically has two main
+components so it's going to have some
+sort of key and then it's going to have
+some sort of value or some sort of
+record and so basically a key could be
+something like for instance my name and
+the value could be something like my
+phone number so we could basically
+create a hash table to store a bunch of
+people's phone numbers and so what
+happens is the hash table it's a way
+that we can implement an associative
+array and so we're basically going to
+map this key to this value here and at
+the heart of a hash table we're
+basically just going to have this array
+structure
 
 
 
