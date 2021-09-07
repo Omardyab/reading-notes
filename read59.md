@@ -1,4 +1,5 @@
 #  Reading 24: Hash table
+
 - A hash table is a data structure that is used to store information so the information in the hash table basically has two main components so it's going to have some sort of key and then it's going to have some sort of value or some sort of record, so basically a key could be something like for instance my name and the value could be something like my phone number, so we could basically create a hash table to store a bunch of people's phone numbers.
 
 - Hash table it's a way that we can implement an associative array and so we're basically going to map this key to this value here and at the heart of a hash table we're basically just going to have this array structure.
@@ -10,10 +11,9 @@ going to look at a certain key and then it's going to evaluate that key and it's
 
         Ohash(myname)=> 3
 
-- For another person you can use square or diamond. 
+- For another person you can use square or diamond.
 
-
-- If we want to add another person and  we find out that their hash value ends up being three.  we will linked list that index(chaning) 
+- If we want to add another person and  we find out that their hash value ends up being three.  we will linked list that index(chaning)
 
         Hash(person) => 1
         it will look in that index, and if we have some channing we will look into that when there is a collision. 

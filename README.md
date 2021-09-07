@@ -1,11 +1,12 @@
-# Reading Notes 
-# Welcome to my Github Reading Notes.
+# Reading Notes
+
+## Welcome to my Github Reading Notes
+
 This website is dedicated to my reading notes,
 
 Here is a table content contains a summary of each reading assignment :
 
-
-# Code102 : Intro to Software Development
+## Code102 : Intro to Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -17,7 +18,7 @@ Here is a table content contains a summary of each reading assignment :
 |READ 6     | [Read6](read6.md)             |
 |LAB        | [LAB](LAB.md)                 |
 
-# Code201 : Foundations of Software Development
+## Code201 : Foundations of Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -37,7 +38,7 @@ Here is a table content contains a summary of each reading assignment :
 |READ 14    | [Read14](read20.md)           |
 |READ 15    | [Read15](read21.md)           |
 
-# Code301 : Intermediate Software Development
+## Code301 : Intermediate Software Development
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -57,8 +58,7 @@ Here is a table content contains a summary of each reading assignment :
 |READ 14    | [Read14](read35.md)            |
 |READ 15    | [Read15](read36.md)            |
 
-
-# Code401 : Advanced Software Development in Python
+## Code401 : Advanced Software Development in Python
 
 |ASSINGMENT | LINK                          |
 |-----------|-------------------------------|
@@ -71,8 +71,8 @@ Here is a table content contains a summary of each reading assignment :
 |READ 7     | [Read7](read43.md)            |
 |READ 8     | [Read8](read44.md)            |
 |READ 9     | [Read9](read45.md)            |
-|READ 10    | [Read11](read46.md)           |
-|READ 11    | [Read12](read47.md)           |
+|READ 10    | [Read10](read46.md)           |
+|READ 11    | [Read11](read47.md)           |
 |READ 12+13 | [Read12](read48.md)           |
 |READ 14    | [Read14](read49.md)           |
 |READ 15    | [Read15](read50.md)           |
@@ -87,5 +87,4 @@ Here is a table content contains a summary of each reading assignment :
 |READ 24    | [Read24](read59.md)           |
 |READ 25    | [Read25](read60.md)           |
 |READ 26    | [Read26](read61.md)           |
-
-
+|READ 27    | [Read27](read62.md)           |

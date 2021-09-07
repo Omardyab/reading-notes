@@ -1,4 +1,4 @@
-#  Reading 24: Permissions:
+#  Reading 26: Permissions
 
 - Permissions determine whether a request should be granted or denied access.
 - Use the authentication information in the request.user and request.auth properties to determine if the incoming request should be permitted.
@@ -8,8 +8,7 @@
 - If any permission check fails an exceptions an exception will be raised.
 - REST framework permissions also support object-level permissioning.
 
-## Setting the permission policy:
-
+## Setting the permission policy
 
         REST_FRAMEWORK = {
         'DEFAULT_PERMISSION_CLASSES': [
@@ -17,8 +16,7 @@
         ]
         }
 
-
-## API Reference:
+## API Reference
 
         AllowAny=> AllowAny :allow unrestricted access
 
@@ -26,7 +24,7 @@
 
         IsAdminUser=> IsAdminUser: user.is_staff is True in which case permission will be allowed.
 
-## DjangoModelPermissions: 
+## DjangoModelPermissions
 
         POST requests require the user to have the add permission on the model.
 
