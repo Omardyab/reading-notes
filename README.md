@@ -92,3 +92,5 @@ Here is a table content contains a summary of each reading assignment :
 |READ 29    | [Read29](read64.md)           |
 |READ 30    | [Read30](read65.md)           |
 |READ 31    | [Read31](read66.md)           |
+|READ 32    | [Read32](read67.md)           |
+
